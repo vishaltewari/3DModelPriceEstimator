@@ -33,7 +33,7 @@ export default function HomePage() {
       </nav>
 
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-purple-600 via-red-500 to-orange-400 text-white py-32 px-6 text-center">
+      <section className="bg-gradient-to-r from-purple-500 via-red-500 to-orange-400 text-white py-32 px-6 text-center">
         <div className="max-w-3xl mx-auto">
           <h1 className="text-5xl font-extrabold mb-6 drop-shadow-sm">
             Instantly Estimate 3D Printing Costs
